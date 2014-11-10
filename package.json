@@ -1,0 +1,16 @@
+{
+  "name": "stylus-kickoff",
+  "version": "0.0.0",
+  "description": "Set up Stylus environment rapidly.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cssmagic",
+  "license": "MIT",
+  "devDependencies": {
+    "stylus": "^0.49.3",
+    "connect": "^3.3.3",
+    "nib": "^1.0.4"
+  }
+}

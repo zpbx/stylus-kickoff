@@ -1,4 +1,9 @@
-stylus-startup
-==============
+# Stylus-Kickoff
 
-Quickly set up your Stylus environment.
+Set up Stylus environment rapidly.
+
+***
+
+## License
+
+[MIT License](http://www.opensource.org/licenses/mit-license.php)
